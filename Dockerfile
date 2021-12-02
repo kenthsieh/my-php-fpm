@@ -25,7 +25,9 @@ RUN apt-get update -yqq \
 	ca-certificates \
     tzdata \
     build-essential \
+    openssh-client \
     git \
+    vim \
     gcc \
     make \
     wget \
